@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marina-Gheopreal
+- 👋 Hi, I’m @Marina-Gheopreal.
 - 👀 I’m interested in programming, illustration ,Neuroscience.
 - 🌱 I’m currently learning web development, python inorder to use it for machine learning and computational neuroscience. 
 - 💞️ I’m looking to collaborate with anyone in thier project in web development front or back end inorder to train 
